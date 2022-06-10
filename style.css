@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?cs=srgb&dl=pexels-nout-gons-378570.jpg&fm=jpg");
+    background-color: #FFF8DC;
+}
+
+.myimg {
+    width:400px;
+    height:400px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+P {
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.5em;
+
+}
+
+h1 {
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+
+}
+
+.myimg:hover {
+    color: orange;
+}
